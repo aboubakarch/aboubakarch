@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack development
 - 🌱 I’m currently learning Blockchain and Web3
 - 💞️ I’m looking to collaborate on contract bases,fulltime or hourly bases.
-- 📫 You can reachme via (Email)[iamaboubakkar@gmail.com]or via (LinkedIn)[https://www.linkedin.com/in/iamaboubakar/] or (WhatsApp)[+923084554045] 
+- 📫 You can reachme via [Email](iamaboubakkar@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/iamaboubakar/) or [WhatsApp](+923084554045) 
 
 <!---
 aboubakarch/aboubakarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
